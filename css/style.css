@@ -1,0 +1,15 @@
+.fff {
+    color: #fff;
+}
+
+.black {
+    color: #000;
+}
+
+#content {
+    overflow: scroll;
+    border: none;
+    box-shadow: inset;
+    scrollbar-color: none;
+    height: 500px;
+}
